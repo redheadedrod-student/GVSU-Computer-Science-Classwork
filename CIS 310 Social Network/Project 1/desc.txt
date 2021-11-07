@@ -1,0 +1,22 @@
+
+data
+	original list of men and org/events
+	net1 and net2
+
+1. find comms
+2. find ambassadors
+		record information about them
+		research
+3. find big fish
+		record information about them
+		research
+4. find influential nodes (10,000 iters, 3 nodes)
+		who shows up the most?
+		any surprises?  can you explain?
+5. discuss the important figures
+	who is the most important?
+		back up your claim with evidence from all the analysis and research above
+	who is the most trustworthy?
+	who holds the network together best (if removed would have the greatest impact)?
+	what did you learn about the mass. patriots?
+	 
